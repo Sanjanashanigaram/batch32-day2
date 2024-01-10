@@ -1,3 +1,7 @@
 public class Sanjana {
-    System.out.println("Hello World");
+    public static void main(String[] args)
+
+    {
+        System.out.println("Hello Sanjana");
+    }
 }
